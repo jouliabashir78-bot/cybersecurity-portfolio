@@ -1,5 +1,3 @@
-# cybersecurity-portfolio
-My cybersecurity and IT projects portfolio
 # Cybersecurity Portfolio - Joulia Bashir
 
 ## About Me
